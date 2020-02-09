@@ -1,0 +1,8 @@
+# ignore all compiled code
+.pyc
+__pycache__
+
+# ignore all hidden system files
+.DS_Store
+
+
